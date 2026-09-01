@@ -40,17 +40,17 @@ https://uupload.ir/view/anime_hbl8.zip/
 ---
 
 ## 📁 Project Structure
-
-src/ \n
-└── main/ \n
-└── java/com/example/animeapi/ \n 
-├── controller/ # API endpoints \n
-├── service/ # Business logic \n 
-├── repository/ # ORM (JPA) queries \n 
-├── model/ # Entities mapped to DB tables \n 
-├── dto/ # Response DTOs \n 
-└── AnimeApiApplication.java \n 
-
+```
+src/
+└── main/
+└── java/com/example/animeapi/
+├── controller/ # API endpoints
+├── service/ # Business logic 
+├── repository/ # ORM (JPA) queries
+├── model/ # Entities mapped to DB tables
+├── dto/ # Response DTOs
+└── AnimeApiApplication.java
+```
 
 ---
 
